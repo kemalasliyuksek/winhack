@@ -1,5 +1,12 @@
 # WinHack
 
+> [!WARNING]
+> **Bu proje artık çalışmıyor ve bakımı yapılmıyor.**
+>
+> `WinHack.cmd` güncel [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) sürümüne göre güncellenmedi ve güncellenmeyecek. `winhack.kemalasliyuksek.com` adresindeki Cloudflare Worker kaldırıldı, bu yüzden aşağıdaki kurulum komutu artık çalışmaz.
+>
+> Aktivasyon için doğrudan orijinal projeyi kullan: [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
+
 Kişisel kullanım için özelleştirilmiş Windows / Office aktivasyon scripti.
 
 ## Kullanım
